@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Adolphus Tshehla
 
-<!--
-**Adolphus-design/Adolphus-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Developer | IT Support and Technician Specialist
 
-Here are some ideas to get you started:
+I am passionate about building real-world web applications and solving problems using technology. I have hands-on experience in both software development and IT support and Technician, making me adaptable in technical environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+* Python (Django)
+* Java, C++
+* TypeScript, Node.js, Express
+* HTML, CSS
+* PostgreSQL (Neon)
+* Cloudinary
+* Git & GitHub
+* Angular (Basic)
+
+---
+
+## 🔥 Featured Projects
+
+### 🏠 Property Listing Web Application
+
+* Built using Django framework
+* Integrated Cloudinary for image storage
+* PostgreSQL (Neon) database
+* Deployed on Render
+
+👉 Live Demo: 
+👉 Code: 
+
+---
+
+### 💬 Community Forum Web Application
+
+* User authentication and discussion system
+* Built with Django
+* Deployed on Render
+
+👉 Live Demo:
+👉 Code: 
+
+---
+
+## 📈 Currently
+
+* Actively seeking: Internship | Learnership | Junior Developer Role
+* Continuously improving my backend and full-stack skills
+
+---
+
+## 📫 Contact Me
+
+Email: [kamogelotshehla@gmail.com](mailto:kamogelotshehla@gmail.com)
